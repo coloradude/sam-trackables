@@ -1,9 +1,11 @@
 ## Things we can track
-+ Browser info (browser, device, operating system, + some other less important)
++ Browser info 
+  * Browser 
+  * Device 
+  * Operating system
+  * + some other less important
 + Referrer
-+ Beacon clicks
 + Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/))
-+ Bounce rate (total clicks / signups)
 + Email sign ups by day/month
 + Username reservations per day/month 
 + Dropoffs
