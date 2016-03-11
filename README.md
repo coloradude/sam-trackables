@@ -1,14 +1,15 @@
 ## Things we can track
-+ Browser info 
++ Browser info **pie graphs**
   * Browser 
   * Device 
   * Operating system
-  * + some other less important
-+ Referrer
-+ Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/))
-+ Email sign ups by day/month
-+ Username reservations per day/month 
-+ Dropoffs
++ Referrer **pie graph**
++ Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/)) **table for now possible map later**
++ Action frequency by day/month **line graphs**
+  * Beacon clicks
+  * Email signups
+  * Username reservations 
++ Dropoffs **line graphs**
   * Visitors vs clicks
   * Clicks vs emails
   * Emails vs usernames
