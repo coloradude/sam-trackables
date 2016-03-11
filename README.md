@@ -1,10 +1,10 @@
 ## Things we can track
-+ Browser info **pie graphs**
++ Browser info **pie/donut/bar graphs**
   * Browser 
   * Device 
   * Operating system
-+ Referrer **pie graph**
-+ Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/)) **table for now possible map later**
++ Referrer **pie/donut/bar graph**
++ Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/)) **sorted table for now possible map later**
 + Action frequency by day/month **line graphs**
   * Beacon clicks
   * Email signups
