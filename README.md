@@ -9,7 +9,7 @@
   * Beacon clicks
   * Email signups
   * Username reservations 
-+ Dropoffs **line graphs**
++ Dropoffs by day/month **line graphs**
   * Visitors vs clicks
   * Clicks vs emails
   * Emails vs usernames
