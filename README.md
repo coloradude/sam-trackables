@@ -4,12 +4,13 @@
 + Beacon clicks
 + Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/))
 + Bounce rate (total clicks / signups)
-+ Email sign ups
-+ Username reservations
-+
-
-
++ Email sign ups by day/month
++ Username reservations per day/month 
++ Dropoffs
+  * Visitors vs clicks
+  * Clicks vs emails
+  * Emails vs usernames
 
 ---
-Stephen's notes
-use sendbeacon onunload and use [this polyfill](https://github.com/miguelmota/Navigator.sendBeacon/blob/master/sendbeacon.js) for shitstain browsers to async send data
+######Stephen's notes
+Use sendbeacon onunload + [this polyfill](https://github.com/miguelmota/Navigator.sendBeacon/blob/master/sendbeacon.js) for shitty browsers to async send data and cut down on requests
