@@ -4,7 +4,7 @@
   * Device 
   * Operating system
 + Referrer **pie/donut/bar graph**
-+ Geolocation (via [http://freegeoip.net/json/](http://freegeoip.net/json/)) **sorted table for now possible map later**
++ Geolocation (via [http://freegeoip.net/json/](http://ip-api.com/json) **sorted table for now possible map later**
 + Action frequency by day/month **line graphs**
   * Beacon clicks
   * Email signups
